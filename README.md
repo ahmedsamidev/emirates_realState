@@ -32,9 +32,7 @@ Emirates Real Estate is a web application designed to facilitate property listin
 2. **Install Dependencies**:
 
      npm install
-     ```
-
-
+    
 4. **Start the Application**:
 
      ```bash
